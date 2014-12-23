@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">action settings</string>
+    <string name="app_name">Avatar Rules</string>
+
+    <string-array name="genericRules">
+        <item>No generic rule</item>
+        <item>I haven\'t cleaned my room in a hundred years… not looking forward to that… for the rest of the game you must clear the empties (last one here)</item>
+        <item>Genocide. That\'s rough shit, everyone drink out of respect for fallen. Except Zhao, that guy\'s a dick.</item>
+        <item>Foam mouth guy, way too excited to be here, drink 2 to calm nerves</item>
+        <item>"Letuce leaf?" Find something green and eat it like a crazy king.</item> <!-- Cabbage space -->
+        <item>“I\'ll make sure Appa doesn\'t eat all of your hay” Regardless of who lands here Appa/Momo must drink 1</item>
+        <item>No generic rule</item>
+        <item>No generic rule</item>
+        <item>Pick a card, if it is black, you find the waterbending scroll, drink a shot of shmirnoff ice. If the card is red, you find the bison whistle, drink a shot of champagne.</item> <!-- Cabbage space -->
+        <item>Sokka\'s instincts are in charge on this space. Sokka rolls a die, drink that many.</item>
+        <item>Just keep flyin\', jump over the great divide</item>
+        <item>Same rules for everyone. Roll a die, 1–3 you remain in the Great Divide, 4–6 you have a chance to escape. Rules for rolled numbers follow:\n1-Your guide breaks his/her arm, pick someone, this person cannot use their arms as long as you are in the Great Divide, you must drink and roll from them.\n2-You are not allowed to bring food or drink into the canyon, finish your drink.\n3-The refugees are divided, you all want to get out! You are still stuck, but add 1 to your next roll. Drink 3 now.\4-You get 4 chances to bounce a ball into a cup. You must successfully bounce the ball into the cup twice in order to escape the Great divide. If you fail to make it twice you must drink 6.\n5-You get 5 chances to bounce a ball into a cup. You must successfully bounce the ball into the cup twice in order to escape the Great divide. If you fail to make it twice you must drink 8.\n6-You get 6 chances to bounce a ball into a cup. You must successfully bounce the ball into the cup twice in order to escape the Great divide. If you fail to make it twice you must drink 10.\nAfter you successfully escape the canyon roll once more to see how many spaces you move beyond (1=The Storm, 2=The Blue Spirit, etc…)</item>
+        <item>Go to the Great Divide</item>
+        <item>Go to the Great Divide</item>
+        <item>Flashback episode! Tell a hilarious anecdote about someone playing about a time they got into trouble. Also, first person here receives Lightening Bending item.</item>
+        <item>The Yu Yang archers are know for their accuracy, sink a ball in a cup from 10 feet, if you make it, give 5, if you miss, take 1</item>
+        <item>Predict who will be the most drunk, make it so and give them a shot of vodka. (First person here only)</item>
+        <item>Katara gets her necklace back, she can stop drinking 1 per turn now.</item>
+        <item>No generic rule</item>
+        <item>Special rule, look at other sheet and play game.</item>
+        <item>No generic rule</item>
+        <item>No generic rule</item>
+        <item>No generic rule</item>
+        <item>Draw 2 cards. Drink the 2 shots of the elements you draw mixed together.</item>
+        <item>Where we haven\'t been, we\'ve heard about through story and song. Sing a song for the group. (Group\'s choice)</item>
+        <item>Pentapox? I think I have heard of that. Tell 2 truths and a lie, people try to guess the lie. Take 2 drinks for every person who guesses correctly, give 2 for every incorrect guess.</item>
+        <item>We are all connected. Everyone close their eyes. You must as a group count to 10, if 2 people speak at the same time, everyone drinks and you start over. You cannot speak if the person next to you just spoke.</item>
+        <item>If you landed on foam mouth guy the first time, CHILL THE FUCK OUT. Finish your drink. If not, \'spin\' the wheel of punishment.</item>
+        <item>THE BOULDER IS OVER HIS CONFLICTED FEELINGS… OF MAKING YOU DRINK. DRINK 2 SHOTS OF HARD CIDER</item>
+        <item>Never give up without a fight… You find the knife, can now give 1 whenever you have to drink.</item>
+        <item>No generic rule</item>
+        <item>First to land here must be referred to as Foo Foo Cuddly Poops for the rest of the game</item>
+        <item>Discover the date of the eclipse, drink the month number (September=9, May=5, etc.)</item>
+        <item>Stuck in the desert. Every turn you attempt to get out.\nSpade: You make it out of the desert, drink the number on the card you drew / 2 rounded down shots of champagne.\nClubs: Attempt to bounce 2 balls into 2 cups simultaneously. You get X number of attempts, where X is value of card drawn / 2 rounded up. Failure is 2 shots of hard cider.\nDiamond: Stand 15 ft from someone, do not face them. Have them count to 3 and throw a ping pong ball in your direction, on 3 you must turn around and attempt to catch it in a cup. Success is an escape, failure drink 2 shots smirnoff.\nHeart: Correctly guess higher or lower for 3 more cards. Incorrect leads to a small pull of fireball.</item>
+        <item>Stuck in the desert. Every turn you attempt to get out.\nSpade: You make it out of the desert, drink the number on the card you drew / 2 rounded down shots of champagne.\nClubs: Attempt to bounce 2 balls into 2 cups simultaneously. You get X number of attempts, where X is value of card drawn / 2 rounded up. Failure is 2 shots of hard cider.\nDiamond: Stand 15 ft from someone, do not face them. Have them count to 3 and throw a ping pong ball in your direction, on 3 you must turn around and attempt to catch it in a cup. Success is an escape, failure drink 2 shots smirnoff.\nHeart: Correctly guess higher or lower for 3 more cards. Incorrect leads to a small pull of fireball.</item>
+        <item>Stuck in the desert. Every turn you attempt to get out.\nSpade: You make it out of the desert, drink the number on the card you drew / 2 rounded down shots of champagne.\nClubs: Attempt to bounce 2 balls into 2 cups simultaneously. You get X number of attempts, where X is value of card drawn / 2 rounded up. Failure is 2 shots of hard cider.\nDiamond: Stand 15 ft from someone, do not face them. Have them count to 3 and throw a ping pong ball in your direction, on 3 you must turn around and attempt to catch it in a cup. Success is an escape, failure drink 2 shots smirnoff.\nHeart: Correctly guess higher or lower for 3 more cards. Incorrect leads to a small pull of fireball.</item>
+        <item>Cabbage Space</item> <!-- Cabbage Space -->
+        <item>No generic rule</item>
+        <item>In Ba Sing Se-You cannot ask questions\nJust a bear… This place is weird. Go around in a circle naming any hybrid animal named in the show. If you can\'t think of one, you are out. First out drinks 5, second drinks 4, etc.</item>
+        <item>In Ba Sing Se-You cannot ask questions\nCabbage Space</item>
+        <item>In Ba Sing Se-You cannot ask questions\nEscape from the circus, battle a boar-q-pine, and have a run-in with Azula. Flip a cup, bounce a ball into a cup, and attempt to draw a red card. For each failure drink half the value of the card you drew.</item>
+        <item>In Ba Sing Se-You cannot ask questions</item>
+        <item>In Ba Sing Se-You cannot ask questions</item>
+        <item>In Ba Sing Se-You cannot ask questions</item>
+        <item>MANDATORY STOP\nIn Ba Sing Se-You cannot ask questions\nOnce Aang reaches this space, start the song Thunderstruck. One person starts drinking, when the song says "thunder" or "thunderstruck", you stop and the next person starts, keep going until song is over.</item>
+        <item>No generic rule</item>
+        <item>Culture Clash! Draw 2 cards. Drink the 2 shots of the elements you draw mixed together.</item>
+        <item>Assuming that fits into Sokka\'s master schedule… Anyone on this space must ask Sokka for permission to do things. (Go to the bathroom, drink, etc.)</item>
+        <item>It\'s SO hot… How hot is it? I don\'t know, real hot? Tell a bad joke and everyone drink one.</item>
+        <item>The person who hasn\'t been to the beach in the longest amount of time finishes their drink. (Only one time per game)</item>
+        <item>Battling the elements was hard enough, but I had to do it while I could barely breathe. Smoke something. Or drink 6</item>
+        <item>First person here is called Sparky Sparky Boom Man for the rest of the game, and can assign 1 shot of fireball now.</item>
+        <item>Tell a scary story, if it sucks or you can\'t think of one, drink 4. Also, first person here unlocks Bloodbending! You can now make people drink 1 per turn.</item>
+        <item>"What was your dream about?" Living underwater… Sounds Neat! Start a waterfall.</item>
+        <item>You get Aang\'s new glider (view Aang\'s New Glider in skills and objects descriptions)</item>
+        <item>No generic rule</item>
+        <item>If you are Sparky Sparky Boom Man, Sokka hits you square in the head with a boomerang, and you blow up. Finish your drink.</item>
+        <item>No generic rule</item>
+        <item>No generic rule</item>
+        <item>"Hey, RIOT!"</item>
+        <item>No generic rule</item>
+        <item>Cabbage Space\nWhile on this space, you must overdramatize everything you do. Penalty of one drink.</item>
+        <item>First person here triggers 20 cups of 4 beers round of Rage Cage</item>
+        <item>No generic rule</item>
+        <item>No generic rule</item>
+        <item>No generic rule</item>
+        <item>Everyone finish their individual drinks. Mix the remaining champagne, cider and Shmirnoff; pass mixture around table until gone.</item>
+    </string-array>
+    <string-array name="aangRules">
+        <item>Will you go penguin sledding with me? Pick one person to drink with you (one each)</item>
+        <item>Avatar State - Take a drink of the Avatar State\n"I bet you\'ve never fought an airbender before… I bet I could take you both with my hands behind my back" Get on your knees and roll to see who feeds you a shot of champagne.</item>
+        <item>Avatar State - Take a drink of the Avatar State\n"The Avatar has returned", everyone drink 1</item>
+        <item>Don\'t ride the unagi, not fun… You almost drown, drink 1 shot of smirnoff</item>
+        <item>Need to pass three deadly challenges, pick three people to drink. And complement someones outfit.</item>
+        <item>Fire coal through an air funnel. Drink a shot of champagne mixed with a shot of hard cider.</item>
+        <item>In Spirit World-You can neither show emotion nor use the bathroom.\nGet backhanded into tomorrow by Hei Bai, let the person to your left smack you in the face, then you both drink 1</item>
+        <item>Avatar State - Take a drink of the Avatar State\nMeet with your past life, Avatar Roku. Drink 3 with anyone who has played this game as Aang before. If no one has, everyone finishes their drinks because fuck you.</item>
+        <item>You spend 1 of your 3 copper pieces on a bison whistle, which saves your ass on multiple occasions. Drink 1 now, immune to next time someone makes you drink.</item>
+        <item>Sokka\'s just jealous because he doesn\'t have an arrow. Draw an arrow on your forehead and drink 1.</item>
+        <item>No specific rule</item>
+        <item>No specific rule</item>
+        <item>No specific rule</item>
+        <item>No specific rule</item>
+        <item>We need you, Aang… To get drunk. Drink 3 from Avatar State</item>
+        <item>Duel Zhao with Zuko as your ally. Mini game of flip cup, Zhao has to do 6 cups, Aang and Zuko have to do 3 each. Loser(s) moves back 3 spaces.</item>
+        <item>"Sometimes I forget what a powerful bender that kid is." Do some push-ups</item>
+        <item>Sit away from the table until your next turn, you cannot be trusted. Also, drink 2, dick</item>
+        <item>Concentrate on you leaf, light a candle and walk around the room until your next turn.</item>
+        <item>I laugh at gravity all the time, haha, gravity. See generic</item>
+        <item>Why are you wearing that at the north pole? Take a small pull of fireball to warm up.</item>
+        <item>In Spirit World-You can neither show emotion nor use the bathroom.\nI figure since you\'ve found time to play with house pets, you must have already mastered waterbending? Draw a card, if it is a diamond, move ahead 1 space. If it isn\'t, drink 2 and lose a turn.</item>
+        <item>Avatar State – Take a drink of the Avatar State\nYou go full avatar state. Have everyone roll a die, 1–3 they bow down, 4–6 they don\'t, and drink 3. You drink 2 for each person who bowed.</item>
+        <item>Avatar State - Take a drink of the Avatar State\nThis rare chi-enhancing tea is a natural stimulant. In an ordinary warrior, it improves strength and energy ten-fold. In you, it may induce the Avatar State. Drink an energy drink or 5 hr energy.</item>
+        <item>You make one fine octopus, drink without your thumbs for the next 2 turns, drink 2 now.</item>
+        <item>No specific rule</item>
+        <item>No specific rule</item>
+        <item>No specific rule</item>
+        <item>"Don\'t answer to Twinkle Toes, it\'s not manly!" You have to tip-toe wherever you go for the rest of the game. Also drink a shot of hard cider.</item>
+        <item>Lose a turn</item>
+        <item>Im not running. Both you and Azula draw two cards, highest sum wins, if you win, Azula drinks 2 shots chapagne. If she wins, you take a half shot of fireball.</item>
+        <item>MANDATORY STOP\nYou must overcome your earthbending block, successfully flip 3 cups in a row, drink a shot of cider for every failed attempt. (8 max)</item>
+        <item>In a past life you were left-handed, for the rest of the game drink with you off hand. Practice now and drink 3.</item>
+        <item>No specific rule</item>
+        <item>No specific rule</item>
+        <item>No specific rule</item>
+        <item>Abandon hope… of getting out of this game sober, drink 5.</item>
+        <item>Both you and Azula cut the deck of cards, highest card wins (aces high). Loser drinks a mixture of one shot of hard cider and one shot of shmirnoff.</item>
+        <item>Avatar Aang! How you do go on. You must act classy, drink with your pinky up the rest of the game.</item>
+        <item>Tape a stuffed animal to your head (If sokka is already wearing it just drink 2)</item>
+        <item>No specific rule</item>
+        <item>Reunited with Appa! "I missed you, buddy" Take a drink with the person who was Appa and hug it out.</item>
+        <item>Take out a whole earth kingdom army, give out one drink per player in the game.</item>
+        <item>You must unlock your chakras. Attempt to bounce a ball into a cup 7 times, adding 2 cups to the stack each time, drink 2 for each failed attempt.</item>
+        <item>Everyone must stop on this space. The challenge between the 4 players must only be completed once. Challenge: 6 cup game of flip cup, 1 beer per side.</item>
+        <item>"I have hair?!" the person with the longest hair drinks 2</item>
+        <item>Tada! Normal kid. Act like a sober version of yourself. If you aren\'t drunk enough, drink 5.</item>
+        <item>Destroy a fire nation factory, every firebender drinks 2.</item>
+        <item>"I think I\'m a little old to be fighting the Avatar." Duel the oldest person, best 5 card poker hand. Loser drinks 4.</item>
+        <item>Attacked by Sparky Sparky Boom Man! Roll a die, if 1–4, he catches you, drink 3. Otherwise give 1.</item>
+        <item>In Spirit World-You can neither show emotion nor use the bathroom.\nAir surfing! I can\'t believe I never thought of that! Drink 2 shots champagne.</item>
+        <item>"I got to say, Sokka, you continue to impress me with your ideas." Have Sokka roll a die, you drink that many</item>
+        <item>Helping people, that\'s what I do. Until your next turn, you split the drinking punishments of the other players. (If they have to drink 4, you both drink 2)</item>
+        <item>Roll a die to decide who you challenge to best 2 out of 3 in blackjack. If you win, Firelord Ozai forgot his pants, if you lose, you do. (Loser takes off pants for two turns)</item>
+        <item>You sleep like a baby moose-lion. Make sure that happens tonight, and drink 4. </item>
+        <item>MANDATORY STOP\nThree way race between Aang, Toph and Azula, split a hard cider into 3 cups. You must drink, bounce a ball in the cup, and flip it. Losers lose a turn.</item>
+        <item>Can you trust Zuko? If he sided with you in Crossroads of Destiny, give 3. If you lost or didn\'t dual, take 3.</item>
+        <item>Play Ring of fire. Drink and pass the fireball everytime Ring of Fire is said. (Play song)</item>
+        <item>Aang does 10 hot squats every time someone lands here… nobody else got homework…</item>
+        <item>"Sounds like a crazy fishing trip" your only line in the episode. Everyone who has caught a fish drinks.</item>
+        <item>Try to teach Katara about forgiveness, forgive someone in the room for a minor slight. And drink, because this is a drinking game.</item>
+        <item>Did I mention that I\'m an incurable prankster? Switch two people\'s drinks.</item>
+        <item>MANDATORY STOP\nAvatar State, Yip Yip! Have Toph pick you up and drink a shot of avatar state.</item>
+        <item>MANDATORY STOP\nGain wisdom from the past avatars. Roll a die, if it is an even, move on, if it is an odd, draw a card and take a shot of whatever element you drew.</item>
+        <item>MANDATORY STOP\nIt is time for you to face the fire lord. Flip 2 coins. If they are both heads, move forward. Otherwise drink 2, and 2 additional for every turn you have been stuck here.</item>
+        <item>MANDATORY STOP\nUnblock your final chakra and enter avatar state. Set up 3 cups beer pong style. You get 2 shots per turn, when you get all 3 cups, the game is over. Drink a drink of avatar state every turn.</item>
+        <item>No specific rule</item>
+    </string-array>
+    <string-array name="kataraRules">
+        <item>Crack open an iceberg in anger, splash the person to the left of you in the face with a cup of ice water. You both drink one</item>
+        <item>"Aang has brought us something we haven\'t had in a long time… Fun." Sing the FUN song from Spongebob, every person who doesn\'t know the words drinks 2.</item>
+        <item>(To Aang) "Sokka and I, we\'re your family now." the 3 of you drink 2 a piece.</item>
+        <item>Save Aang from drowning, you and him draw a card, low card drinks 2.</item>
+        <item>Encased in rock candy, lose a turn</item>
+        <item>Give an inspirational speech, group drink out of respect. Lose your necklace, drink 1 extra per turn until you get it back. (once you pass Bato of the Water Tribe you can stop) drinking 1 extra)</item>
+        <item>Give Aang hope… of leaving this game sober, drink half of his assigned drinks until end of book 1.</item>
+        <item>You might as well face it, laddy, we\'re going with you. Do your Gimli impression and drink 3.</item>
+        <item>Captured by pirates. Actually, it kind of is all your fault, drink 2.</item>
+        <item>“I’ve never bent water I couldn’t see before.” Blindly take one of three shots (Vodka, Shmirnoff Ice, and Water) On top of that, you are a liar because you cleared Aangs lungs of water in Warriors of Kyoshi so take an extra drink</item>
+        <item>No specific rule</item>
+        <item>No specific rule</item>
+        <item>No specific rule</item>
+        <item>No specific rule</item>
+        <item>Hot cinders! Take a small pull of fireball.</item>
+        <item>You sent Momo to get water but he keeps bringing back random shit, drink a little of Appa/Momo\'s drink.</item>
+        <item>Eat some papaya (or whatever fruit you can find). If no fruit around, drink 2.</item>
+        <item>Get hit with Nyla\'s paralysing tongue, drink 2</item>
+        <item>Bitch you got burned, take a small pull of fireball, then cool it off with some soothing Shmirnoff ice because you discovered your healing.</item>
+        <item>You are flying!! Drink 1 shot of champagne, and feel that airbending.</item>
+        <item>Duel with Master Pakku. You lose, take 2 shots of Smirnoff Ice. Give 1 though, because you did pretty good.</item>
+        <item>"Katara, you\'ve advanced more quickly than any student I\'ve ever trained." Move ahead 1 space and take 2 shots of smirnoff.</item>
+        <item>Five card draw (poker) against Zuko. If you win Zuko drinks a Smirnoff. If you lose, you drink some fireball (1 shot) </item>
+        <item>Drug underground by an earth bender. Beer bong a hard cider. Cause for real, you rolled a one…</item>
+        <item>Is this real? Or a legend? Oh, it\'s a real legend. Become a legend and finish your drink.</item>
+        <item>No specific rule</item>
+        <item>No specific rule</item>
+        <item>No specific rule</item>
+        <item>"This is just going to be a bunch of guys chucking rocks at each other, isn\'t it?" Drink a shot of hard cider</item>
+        <item>Lose a turn</item>
+        <item>We could have gotten some sleep earlier if toph didnt have such issues. Drink a shot of cider</item>
+        <item>"You never call me Sifu Katara…" Aang has to call you Sifu for the rest of the game. (In addition to your name)</item>
+        <item>You think you were the first people to think their war was justified? Finsih your drink and think about that shit.</item>
+        <item>No specific rule</item>
+        <item>No specific rule</item>
+        <item>No specific rule</item>
+        <item>Finish your drink to steady your hands. You help deliver a child… Whose name is hope. There is so much fuckin hope going around! Everyone cheers together… To hope! </item>
+        <item>Just bend the slurry woman! Drink a mix of a shot of Smirnoff Ice mixed mixed with a shot of hard cider</item>
+        <item>"I\'m Kwa Mai, and this is… Dum" Smooth move on the aliases, whenever someone talks to Toph, they have to call her dumb, otherwise penalty of a drink.</item>
+        <item>Bonding time with Toph, you are now mated for the rest of the game. (Only on normal drinks, no elemental or finish drinks)</item>
+        <item>No specific rule</item>
+        <item>Jet\'s back. Roll a die, 1 or 2 you trust him, give 3. 3–6 you don\'t trust him, take 2.</item>
+        <item>Sorry! We\'re actually on your side! Make someone drink 3, but feel really bad about it, so drink 3 as well.</item>
+        <item>Ty lee chi-blocks you! Roll a die, on a 1, you defend yourself, gain a turn. Otherwise, drink 3 and lose a turn.</item>
+        <item>Challenge with Aang, Zuko, and Azula. See Special Rules (to the right)</item>
+        <item>You need a healing session. give aang a back massage and drink 5.</item>
+        <item>Sapphire Fire, nice to meet you. Take a pull of fireball, Sapphire Fire.</item>
+        <item>You are the Painted Lady! Drink 4 now and help out the other players for the rest of the game. (Refilling drinks, etc.)</item>
+        <item>"I-It\'s so hot, it\'s so hot… Momo is shedding like Appa." I guess jokes don\'t run in the family… Drink 2 for every sibling or pet you have.</item>
+        <item>Attacked by Sparky Sparky Boom Man! Roll a die, if 1–4, he catches you, drink 3. Otherwise give 1.</item>
+        <item>Oh Sokka, just hold hands. Aang, Katara, Sokka, and Toph all drink together until your next turn.</item>
+        <item>Locked up in a wooden prison, using your own sweat as bending water. Start sweating, and take a shot of vodka.</item>
+        <item>Drink 4. Also, until your next turn, you must feed everyone their drinks.</item>
+        <item>These yoga poses work wonders in extreme heat… Nice. Take a swig of fireball and do the downward dog yoga pose, get that ass up, girl. (Google it if you don\'t know)</item>
+        <item>The Katara-Appa combo is dangerous, you save everyone\'s ass. Drink for everyone until your next turn, except Azula and Zuko because they suck.</item>
+        <item>MANDATORY STOP\nThe rest of the gang is fighting Azula, you are stuck tending to your father.Until the finale, you have to take care of everyone in the gang. Get them drinks/food and stuff (Not Azula). Also, drink 5 so you are not left out.</item>
+        <item>Everyone go around in a circle pointing out a flaw in Zuko. Group drink.</item>
+        <item>You know, how it would\'ve been nice for us if you lost your firebending a long time ago. You are immune to fireball the rest of the game. Take a shot of it now for old times though.</item>
+        <item>You didn\'t get any homework, But drink 5 anyway.</item>
+        <item>Reunited with your father. Drink 1 for every letter in your dad\'s name.</item>
+        <item>MANDATORY STOP\nTake revenge on someone who has wronged you. Whoever has made you drink the most over the course of the game has to finish their drink. But finish yours too, because fuck it.</item>
+        <item>My heart is so full of hope, that it\'s making me tearbend! Tell a sad story to the group.</item>
+        <item>MANDATORY STOP\nThen, Katara and Zuko charge in with some liquidy hot offense. Draw a card, if it is black, drink a shot of smirnoff and move forward. If it is red, take a drink of fireball and stay put.</item>
+        <item>MANDATORY STOP\nMeet with the members of the White Lotus, take a drink of every element and move forward.</item>
+        <item>MANDATORY STOP\nYou go to help Zuko fight Azula, then you get benched. Draw a card, if it is a face card, move forward. Otherwise drink half the value of the card.</item>
+        <item>MANDATORY STOP\nYou must defeat Azula by chaining her up. Put some smirnoff in 3 cups of yours, and she gets 3 empty cups. You must beat her in flip cup. If you win, the game is over, if you lose, stay put and try again next turn. For every 2 fails, she has to flip another cup.</item>
+        <item>No specific rule</item>
+    </string-array>
+    <string-array name="sokkaRules">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="zukoRules">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="tophRules">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="azulaRules">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="irohRules">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="spaceNames">
+        <item>Boy In The Iceberg</item>
+        <item>Avatar Returns</item>
+        <item>Southern Air Temple</item>
+        <item>Warriors of Kyoshi</item>
+        <item>The King of Omashu</item>
+        <item>Imprisoned</item>
+        <item>The Spirit World</item>
+        <item>Avatar Roku</item>
+        <item>The Waterbending Scroll</item>
+        <item>Jet</item>
+        <item>The Great Divide</item>
+        <item>The Great Divide</item>
+        <item>The Great Divide</item>
+        <item>The Great Divide</item>
+        <item>The Storm</item>
+        <item>The Blue Spirit</item>
+        <item>The Fortuneteller</item>
+        <item>Bato of the Water Tribe</item>
+        <item>The Deserter</item>
+        <item>The Northern Air Temple</item>
+        <item>The Waterbending Master</item>
+        <item>Siege of the North 1</item>
+        <item>Siege of the North 2*</item>
+        <item>The Avatar State</item>
+        <item>The Cave of Two Lovers</item>
+        <item>Return to Omashu</item>
+        <item>The Swamp</item>
+        <item>Avatar day</item>
+        <item>The Blind Bandit</item>
+        <item>Zuko Alone</item>
+        <item>The Chase</item>
+        <item>Bitter Work</item>
+        <item>The Library</item>
+        <item>The Desert</item>
+        <item>The Desert</item>
+        <item>The Desert</item>
+        <item>The Serpent’s Pass</item>
+        <item>The Drill</item>
+        <item>City of Walls and Secrets</item>
+        <item>Tales of Ba Sing Se</item>
+        <item>Appa’s Lost Days</item>
+        <item>Lake Laogai</item>
+        <item>The Earth King</item>
+        <item>The Guru*</item>
+        <item>The Crossroads of Destiny*</item>
+        <item>The Awakening</item>
+        <item>The Headband</item>
+        <item>The Painted Lady</item>
+        <item>Sokka’s Master</item>
+        <item>The Beach</item>
+        <item>The Avatar and the Firelord</item>
+        <item>The Runaway</item>
+        <item>The Puppet Master</item>
+        <item>Nightmares and Daydreams</item>
+        <item>The Day of Black Sun part 1-The Invasion</item>
+        <item>The Day of Black Sun part 2-The Eclipse*</item>
+        <item>The Western Air Temple</item>
+        <item>The Firebending Masters</item>
+        <item>The Boiling Rock part 1</item>
+        <item>The Boiling Rock part 2</item>
+        <item>The Southern Raiders</item>
+        <item>The Ember Island Players</item>
+        <item>Sozin’s Comet part 1-The Phoenix King*</item>
+        <item>Sozin’s Comet part 2-Old Masters*</item>
+        <item>Sozin’s Comet part 3-Into the Inferno*</item>
+        <item>Sozin’s Comet part 4-Avatar Aang*</item>
+        <item>End</item>
+         </string-array>
+
+    <string name="title_activity_info_screen">Rule</string>
+
+</resources>
